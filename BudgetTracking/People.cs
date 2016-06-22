@@ -10,21 +10,16 @@ using System.Windows.Forms;
 
 namespace BudgetTracking
 {
-    public partial class Form1 : Form
+    public partial class People : Form
     {
-        public Form1()
+        public People()
         {
             InitializeComponent();
         }
 
-        private void lblIncome_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
 
-        }
-
-        private void btnPeople_Click(object sender, EventArgs e)
-        {
-            
         }
     }
 }

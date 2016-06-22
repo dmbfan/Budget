@@ -55,6 +55,7 @@
             this.btnPeople.TabIndex = 1;
             this.btnPeople.Text = "People";
             this.btnPeople.UseVisualStyleBackColor = true;
+            this.btnPeople.Click += new System.EventHandler(this.btnPeople_Click);
             // 
             // lblIncome
             // 
